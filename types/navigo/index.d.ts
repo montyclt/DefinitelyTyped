@@ -43,5 +43,5 @@ declare class Navigo {
 
     destroy(): void;
 }
-export = Navigo;
-export as namespace Navigo;
+
+export default Navigo;
